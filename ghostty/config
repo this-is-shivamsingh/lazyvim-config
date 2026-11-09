@@ -1,0 +1,33 @@
+# Sublime Text-inspired Ghostty profile
+font-family = Consolas for Powerline
+font-size = 14
+font-thicken = true
+
+background = 343D46
+foreground = D8DEE9
+cursor-color = D8DEE9
+selection-background = 4F5B66
+selection-foreground = D8DEE9
+
+palette = 0=#2F3740
+palette = 1=#EC5F67
+palette = 2=#99C794
+palette = 3=#FAC863
+palette = 4=#6699CC
+palette = 5=#C594C5
+palette = 6=#5FB3B3
+palette = 7=#D8DEE9
+palette = 8=#767C85
+palette = 9=#EC5F67
+palette = 10=#99C794
+palette = 11=#FAC863
+palette = 12=#6699CC
+palette = 13=#C594C5
+palette = 14=#5FB3B3
+palette = 15=#EFF1F5
+
+window-padding-x = 10
+window-padding-y = 8
+window-decoration = auto
+macos-titlebar-style = transparent
+macos-option-as-alt = true
